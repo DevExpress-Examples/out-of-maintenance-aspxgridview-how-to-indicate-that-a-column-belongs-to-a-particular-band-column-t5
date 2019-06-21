@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite1/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite1/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to indicate that a column belongs to a particular Band column
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t583887/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to indicate that a column belongs to a particular <a href="https://demos.devexpress.com/aspxgridviewdemos/Columns/Bands.aspx">Band column</a> in a <a href="https://documentation.devexpress.com/AspNet/3734/ASP-NET-WebForms-Controls/Grid-View/Concepts/Data-Representation-Basics/Customization-Window">Customization Window</a> of <a href="https://documentation.devexpress.com/AspNet/DevExpress.Web.ASPxGridView.class">ASPxGridView</a>. To achieve this, handle the <strong>ASPxGridView.Init</strong> event and assign different colors and tooltips to columns headers, which belong to a particular band column.</p>
